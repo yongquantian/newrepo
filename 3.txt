@@ -1,5 +1,2 @@
 test file 3 !!!
-<<<<<<< HEAD
 hello--
-=======
->>>>>>> 33b43fe53c8ad2bb5f7416f320bc194a2d6295a1
