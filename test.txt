@@ -1,10 +1,6 @@
 # learn-git
 
 # yongtian project
-- finish develop v1
+- finish develop v200
 
-# Person 1 code
-v3
-
-# public code
-+++
+test_yt
