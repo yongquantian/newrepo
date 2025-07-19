@@ -3,3 +3,7 @@
 # MAC OS file
 .DS_Store
 
+#
+.idea
+
+
