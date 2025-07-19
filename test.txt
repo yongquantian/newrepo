@@ -5,8 +5,3 @@
 
 p2 +++
 
-# Person 1 code
-v3
-
-# public code
-+++
