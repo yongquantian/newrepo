@@ -1,7 +1,7 @@
 # learn-git
 
 # yongtian project
-- finish develop v6
+- finish develop v5
 
 p2 +++
 
